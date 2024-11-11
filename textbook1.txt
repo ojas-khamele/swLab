@@ -1,0 +1,1 @@
+Data science is a multi-disciplinary field that uses scientific methods, processes, and algorithms to extract insights from structured and unstructured data. The field of data science combines skills from computer science, statistics, and information technology.
